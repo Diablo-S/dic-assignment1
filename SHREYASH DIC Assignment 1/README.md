@@ -1,1 +1,2 @@
-# Training-and-placement-management
+# University Website
+# HTML, CSS, JS
